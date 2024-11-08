@@ -5,5 +5,5 @@ azs = ["us-east-1a","us-east-1b","us-east-1c"]
 vpc_name = "prod"
 ami = "ami-0866a3c8686eaeeba"
 instance_type = "t2.micro"
-key_name = "venki"
+key_name = "palleti"
 private_ip = "10.60.4.15"
